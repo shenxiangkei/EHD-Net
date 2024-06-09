@@ -1,4 +1,5 @@
-Title:
+Title: A Novel Incremental Defect Detection Method via Elastic Heterogeneous Distillation Network
+
 ### Requirements
 - Linux or macOS
 - Python >= 3.6
@@ -29,6 +30,6 @@ Note: you may need to rebuild detectron2 after reinstalling a different build of
 ### Running
 
 '''
-Run train_source.py 
+Run ..tools/train_source.py 
 and adjust the .yaml file for different increments.
 '''
